@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58899470341",
+    "project_id": "monpressing-app-2026",
+    "storage_bucket": "monpressing-app-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58899470341:android:b27cc642b51d14d184a46c",
+        "android_client_info": {
+          "package_name": "com.example.monpressing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT_4OgT6DKMQOEpVDERnhtSgCJTqUcVSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
